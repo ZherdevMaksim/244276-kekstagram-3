@@ -1,7 +1,8 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Максим Жердев](https://up.htmlacademy.ru/javascript-individual/3/user/244276).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгения Подопригора](https://htmlacademy.ru/profile/id2387199).
+* Сайт: [Keksogram](https://zherdevmaksim.github.io/244276-kekstagram-3/).
 
 ---
 
